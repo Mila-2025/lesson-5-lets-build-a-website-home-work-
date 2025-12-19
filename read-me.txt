@@ -1,0 +1,8 @@
+I followed the Lesson 5 structure using flexbox for layout, kept the CSS minimal for learning purposes, and focused on structure, spacing and responsiveness.
+
+For this lesson, I built a simple website using HTML and CSS.
+I focused on page structure and layout using flexbox, clear sections, and basic responsive design.
+I kept the code minimal and clean to better understand how navigation, content sections, and layouts work together.
+
+
+
